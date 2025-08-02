@@ -2477,6 +2477,19 @@
          "tilecount":440,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":60,
+         "firstgid":64226,
+         "image":"tilesets\/nhMyq2M18WJSPlKVn2Hp1v.png",
+         "imageheight":1281,
+         "imagewidth":1921,
+         "margin":0,
+         "name":"nhMyq2M18WJSPlKVn2Hp1v",
+         "spacing":0,
+         "tilecount":2400,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
