@@ -105,6 +105,39 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":67,
+         "name":"acoes",
+         "objects":[
+                {
+                 "height":114,
+                 "id":23,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"porta-fechada, barreira"
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":119,
+                 "x":742,
+                 "y":264
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":55,
          "layers":[
                 {
@@ -589,39 +622,6 @@
          "name":"furniture",
          "opacity":1,
          "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":67,
-         "name":"Acoes",
-         "objects":[
-                {
-                 "height":114,
-                 "id":23,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"porta-fechada,barreira"
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":""
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":119,
-                 "x":742,
-                 "y":264
-                }],
-         "opacity":1,
-         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
