@@ -151,9 +151,24 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"closeTriggerMessage",
+                 "type":"string",
+                 "value":" "
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"porta3"
+                }, 
+                {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Pressione espa\u00e7o para abrir a porta."
                 }],
          "type":"tilelayer",
          "visible":true,
