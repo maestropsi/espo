@@ -767,6 +767,28 @@
                  "width":0,
                  "x":749,
                  "y":291.5
+                }, 
+                {
+                 "height":154.666666666667,
+                 "id":30,
+                 "name":"porta",
+                 "properties":[
+                        {
+                         "name":"doorVariable",
+                         "type":"string",
+                         "value":"porta3"
+                        }, 
+                        {
+                         "name":"openTriggerMessage",
+                         "type":"string",
+                         "value":"Pressione espa\u00e7o para abrir."
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":146.666666666667,
+                 "x":728,
+                 "y":250
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -887,7 +909,7 @@
          "y":0
         }],
  "nextlayerid":71,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
