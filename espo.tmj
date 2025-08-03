@@ -66,7 +66,7 @@
                         {
                          "name":"doorVariable",
                          "type":"string",
-                         "value":"porta3"
+                         "value":"portal"
                         }],
                  "rotation":0,
                  "type":"",
@@ -78,7 +78,7 @@
                 {
                  "height":0,
                  "id":44,
-                 "name":"porta3",
+                 "name":"portal",
                  "point":true,
                  "properties":[
                         {
