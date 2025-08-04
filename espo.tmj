@@ -163,7 +163,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"porta2"
+                 "value":"porta1"
                 }, 
                 {
                  "name":"openTriggerMessage",
@@ -1005,13 +1005,13 @@
                 {
                  "height":0,
                  "id":48,
-                 "name":"porta2",
+                 "name":"porta1",
                  "point":true,
                  "properties":[
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"porta-fechada2, porta-fechada3, porta-fechada1"
+                         "value":"porta-fechada1"
                         }, 
                         {
                          "name":"default",
@@ -1027,8 +1027,36 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":430.5,
-                 "y":298
+                 "x":111.166666666667,
+                 "y":302
+                }, 
+                {
+                 "height":0,
+                 "id":49,
+                 "name":"porta2",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"porta-fechada2"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":432.5,
+                 "y":297.333333333333
                 }, 
                 {
                  "height":0,
@@ -1182,7 +1210,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":49,
+ "nextobjectid":50,
  "orientation":"orthogonal",
  "properties":[
         {
