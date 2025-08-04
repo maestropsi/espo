@@ -780,7 +780,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":""
+                         "value":"porta-aberta"
                         }],
                  "rotation":0,
                  "type":"variable",
