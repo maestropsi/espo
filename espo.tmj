@@ -1100,39 +1100,6 @@
                  "width":0,
                  "x":754,
                  "y":297
-                }, 
-                {
-                 "height":0,
-                 "id":51,
-                 "name":"porta4",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"porta-fechada4"
-                        }, 
-                        {
-                         "name":"default",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"door",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":""
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":754,
-                 "y":297
                 }],
          "opacity":1,
          "type":"objectgroup",
