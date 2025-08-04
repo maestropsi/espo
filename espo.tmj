@@ -1011,7 +1011,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"porta-fechada2,porta-fechada3,porta-fechada1"
+                         "value":"porta-fechada2, porta-fechada3, porta-fechada1"
                         }, 
                         {
                          "name":"default",
