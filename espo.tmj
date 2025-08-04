@@ -2341,8 +2341,17 @@
                 }]
         }, 
         {
+         "columns":10,
          "firstgid":13381,
-         "source":"..\/..\/espo\/Tilesets\/gather_shadows_1.x.tsx"
+         "image":"tilesets\/gather_shadows_1.1.png",
+         "imageheight":1408,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Gather Shadows 1.x",
+         "spacing":0,
+         "tilecount":440,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":13821,
