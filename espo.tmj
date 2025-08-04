@@ -1176,6 +1176,39 @@
                 }, 
                 {
                  "height":0,
+                 "id":60,
+                 "name":"porta_reuniao",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"porta-fechada_reuniao"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"porta-aberta"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":235,
+                 "y":674
+                }, 
+                {
+                 "height":0,
                  "id":55,
                  "name":"porta1",
                  "point":true,
@@ -1972,7 +2005,7 @@
          "y":0
         }],
  "nextlayerid":100,
- "nextobjectid":60,
+ "nextobjectid":61,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -2169,6 +2202,42 @@
          "tilecount":8025,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":769,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":770,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":794,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":795,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":5286,
                  "properties":[
