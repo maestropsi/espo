@@ -2356,7 +2356,7 @@
         {
          "columns":25,
          "firstgid":13821,
-         "image":"..\/..\/espo\/Tilesets\/gather_interior_walls_1.6.png",
+         "image":"tilesets\/gather_interior_walls_1.6.png",
          "imageheight":10272,
          "imagewidth":800,
          "margin":0,
