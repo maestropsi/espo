@@ -903,7 +903,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"porta-aberta"
+                         "value":""
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -936,7 +936,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"porta-aberta"
+                         "value":""
                         }],
                  "rotation":0,
                  "type":"variable",
