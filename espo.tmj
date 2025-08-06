@@ -1782,7 +1782,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"espo.tmj#from-sala1"
+                         "value":"sala1.tmj#from-espo"
                         }],
                  "rotation":0,
                  "type":"area",
