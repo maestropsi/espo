@@ -272,7 +272,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":103,
+                 "height":122,
                  "id":13,
                  "name":"jitsiChillZone",
                  "properties":[
@@ -299,9 +299,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":135.5,
-                 "x":317.5,
-                 "y":174.5
+                 "width":188.5,
+                 "x":284.5,
+                 "y":161
                 }, 
                 {
                  "height":0,
@@ -347,7 +347,7 @@
                          "value":"espo.tmj#from-sala1"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":63.5,
                  "x":288.5,
