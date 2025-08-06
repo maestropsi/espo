@@ -364,7 +364,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":30.6666666666667,
                  "x":282.333333333333,
